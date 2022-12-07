@@ -9,5 +9,10 @@ class ProgettoTest04ApplicationTests {
 	@Test
 	void contextLoads() {
 	}
+	
+	@Test
+	void hello() {
+		System.out.println("hello");
+	}
 
 }
